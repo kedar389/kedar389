@@ -3,6 +3,7 @@
 
 
 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=&logo=linux&logoColor=white&color=dd4814)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=&logo=windows&logoColor=white&color=00A4EF)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=5d2b90)
